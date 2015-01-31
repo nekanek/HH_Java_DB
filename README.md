@@ -23,5 +23,3 @@ Employers implemented with Hibernate, vacancies - with JDBC.
 - тесты (опционально)
   - можно запустить сразу после git clone через mvn test
 - желательно на maven
-- делаем в отдельное ветке, на github создаем pull request, присылаем
-мне на an.ivanov@hh.ru
